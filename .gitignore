@@ -1,3 +1,3 @@
 # Ignore SSH key files
 *.pub
-*rsa
+github_rsa
